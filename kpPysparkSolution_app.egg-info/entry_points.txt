@@ -1,0 +1,3 @@
+[console_scripts]
+kpPysparkSolution_app = kpPysparkSolution_app.main:main
+
