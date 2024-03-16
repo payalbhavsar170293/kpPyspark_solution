@@ -1,0 +1,51 @@
+2024-03-15 17:09:11,287 - INFO - Dataframe is filtered successfully
+2024-03-15 17:09:11,287 - INFO - Dataframe is filtered successfully
+2024-03-15 17:09:11,287 - INFO - Dataframe is filtered successfully
+2024-03-15 17:09:11,323 - INFO - Column renamed successfully
+2024-03-15 17:09:11,323 - INFO - Column renamed successfully
+2024-03-15 17:09:11,323 - INFO - Column renamed successfully
+2024-03-15 17:09:11,333 - INFO - Column renamed successfully
+2024-03-15 17:09:11,333 - INFO - Column renamed successfully
+2024-03-15 17:09:11,333 - INFO - Column renamed successfully
+2024-03-15 17:09:11,343 - INFO - Column renamed successfully
+2024-03-15 17:09:11,343 - INFO - Column renamed successfully
+2024-03-15 17:09:11,343 - INFO - Column renamed successfully
+2024-03-15 17:09:13,309 - INFO - Result is successfully written in the output path
+2024-03-15 17:09:13,309 - INFO - Result is successfully written in the output path
+2024-03-15 17:09:13,309 - INFO - Result is successfully written in the output path
+2024-03-15 17:09:13,309 - INFO - Closing down clientserver connection
+2024-03-15 17:09:13,309 - INFO - Closing down clientserver connection
+2024-03-15 17:09:13,309 - INFO - Closing down clientserver connection
+2024-03-15 17:13:17,597 - INFO - Dataframe is filtered successfully
+2024-03-15 17:13:17,597 - INFO - Dataframe is filtered successfully
+2024-03-15 17:13:17,633 - INFO - Column renamed successfully
+2024-03-15 17:13:17,633 - INFO - Column renamed successfully
+2024-03-15 17:13:17,639 - INFO - Column renamed successfully
+2024-03-15 17:13:17,639 - INFO - Column renamed successfully
+2024-03-15 17:13:17,652 - INFO - Column renamed successfully
+2024-03-15 17:13:17,652 - INFO - Column renamed successfully
+2024-03-15 17:13:19,797 - INFO - Result is successfully written in the output path
+2024-03-15 17:13:19,797 - INFO - Result is successfully written in the output path
+2024-03-15 17:13:19,797 - INFO - Closing down clientserver connection
+2024-03-15 17:13:19,797 - INFO - Closing down clientserver connection
+2024-03-15 17:16:33,316 - INFO - Dataframe is filtered successfully
+2024-03-15 17:16:33,350 - INFO - Column renamed successfully
+2024-03-15 17:16:33,357 - INFO - Column renamed successfully
+2024-03-15 17:16:33,367 - INFO - Column renamed successfully
+2024-03-15 17:16:35,534 - INFO - Result is successfully written in the output path
+2024-03-15 17:16:35,534 - INFO - Closing down clientserver connection
+2024-03-15 17:17:52,562 - INFO - Dataframe is filtered successfully
+2024-03-15 17:17:54,577 - INFO - Result is successfully written in the output path
+2024-03-15 17:17:54,578 - INFO - Closing down clientserver connection
+2024-03-15 17:20:30,328 - INFO - Dataframe is filtered successfully for 
+2024-03-15 17:20:30,365 - INFO - Column renamed successfully from old column name  id to new column name client_identifier
+2024-03-15 17:20:30,373 - INFO - Column renamed successfully from old column name  btc_a to new column name bitcoin_address
+2024-03-15 17:20:30,383 - INFO - Column renamed successfully from old column name  cc_t to new column name credit_card_type
+2024-03-15 17:20:32,471 - INFO - Result is successfully written in the output path
+2024-03-15 17:20:32,471 - INFO - Closing down clientserver connection
+2024-03-15 17:22:08,031 - INFO - Dataframe is filter using filter column country having value United Kingdom
+2024-03-15 17:22:08,072 - INFO - Column renamed successfully from old column name  id to new column name client_identifier
+2024-03-15 17:22:08,080 - INFO - Column renamed successfully from old column name  btc_a to new column name bitcoin_address
+2024-03-15 17:22:08,089 - INFO - Column renamed successfully from old column name  cc_t to new column name credit_card_type
+2024-03-15 17:22:10,224 - INFO - Result is successfully written in the output path client_data
+2024-03-15 17:22:10,225 - INFO - Closing down clientserver connection
